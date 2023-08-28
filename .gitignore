@@ -1,0 +1,18 @@
+# Ignore all files and folders that start with a dot (.)
+*.
+
+# Ignore temporary files and build artifacts
+**/node_modules
+**/.git
+**/.DS_Store
+**/build
+**/dist
+**/public
+
+# Ignore any files with the following extensions
+*.log
+*.md
+*.txt
+*.json
+*.yaml
+*.yml
